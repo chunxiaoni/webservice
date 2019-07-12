@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2010\Projects\pharmaceuticalfactory\pharmaceuticalfactory\bin\pharmaceuticalfactory.dll
+D:\Documents\Visual Studio 2010\Projects\pharmaceuticalfactory\pharmaceuticalfactory\bin\pharmaceuticalfactory.pdb
+D:\Documents\Visual Studio 2010\Projects\pharmaceuticalfactory\pharmaceuticalfactory\obj\Debug\pharmaceuticalfactory.dll
+D:\Documents\Visual Studio 2010\Projects\pharmaceuticalfactory\pharmaceuticalfactory\obj\Debug\pharmaceuticalfactory.pdb
+D:\Documents\Visual Studio 2010\Projects\pharmaceuticalfactory\pharmaceuticalfactory\obj\Debug\pharmaceuticalfactory.csprojResolveAssemblyReference.cache

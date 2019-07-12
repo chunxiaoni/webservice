@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\server\Pharmaceuticalfactory" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/pharmaceuticalfactory.pdb" publishTime="06/02/2019 20:26:36" />
+    <file relUrl="Service1.asmx" publishTime="04/07/2019 10:56:00" />
+    <file relUrl="Web.config" publishTime="04/11/2019 10:56:56" />
+    <file relUrl="bin/pharmaceuticalfactory.dll" publishTime="06/02/2019 20:26:36" />
+  </publishProfile>
+</publishData>
